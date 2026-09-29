@@ -1,1 +1,1 @@
-token = "Paste your bot's token here"
+token = "Cole o token do seu bot aqui"
